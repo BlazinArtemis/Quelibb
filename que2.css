@@ -1,0 +1,104 @@
+            @media only screen and (max-width: 320px) {
+                .app-header .logo img {
+                    margin-left: 88%;
+                    margin-top: 15%;
+                }
+                .app-header .navbar-toggler {
+                    font-size: 22px;
+                    color: #198754;
+                    border: none;
+                    margin-top: -67%;
+                    margin-left: 175%;
+                    padding: 0;
+                    outline: none;
+                }
+                .app-header .header-links {
+                    margin-left: 43%;
+                }
+                .app-header .app-header-btn {
+                    font-size: 9px;
+                }
+                #avatar1 {
+                    left: 6%;
+                    top: 27%;
+                }
+                h1 {
+                    font-size: 50px;
+                    margin-left: 55%;
+                    margin-top: -220%;
+                    width: 100%;
+                }
+                h6 {
+                    font-size: 28px;
+                    line-height: 38px;
+                    margin-left: 55%;
+                    width: 100%;
+                    margin-top: 15%;
+                }
+                #button1 {
+                    display: inline-block;
+                    width: 45%;
+                    height: 53px;
+                    margin-top: -16%;
+                    font-size: 15px;
+                    margin-left: 115%;
+                }
+                #avatar2 {
+                    margin-left: 159%;
+                    margin-top: 190%;
+                }
+                #address {
+                    width: 87%;
+                    font-size: 15px;
+                    margin-left: 40%;
+                    margin-top: 15%;
+                }
+                .screenshot-section {
+                    height: 321%;
+                    top: 125%;
+                    left: 180px;
+                    background: url("images/v51_92.png");
+                }
+                .features-section {
+                    width: 218%;
+                }
+                .info-pic {
+                    margin-left: 25%;
+                }
+                .right-info {
+                    margin-top: 230%;
+                }
+                .left-info1 {
+                    margin-left: -125%;
+                    margin-top: -95%;
+                }
+                .right-info1 {
+                    margin-top: 200%;
+                    margin-left: 183%;
+                    width: 200%;
+                }
+                .info-header {
+                    margin-bottom: 8%;
+                    margin-left: -85%;
+                }
+                .info-text {
+                    font-size: 34px;
+                    line-height: 48px;
+                    margin-left: -80%;
+                }
+                .right-info2 {
+                    margin-top: 220%;
+                }
+                .left-info2 {
+                    margin-top: -18%;
+                }
+                .right-info3 {
+                    margin-left: 181%;
+                    margin-top: 200%;
+                    width: 200%;
+                }
+                .left-info3 {
+                    margin-left: -140%;
+                    margin-top: -105%;
+                }
+            }
